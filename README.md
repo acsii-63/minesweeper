@@ -1,3 +1,2 @@
 # mineswpeer
-generate and solve a minesweeper
-Using basic C language.
+Generate and solve a minesweeper using basic C language.
