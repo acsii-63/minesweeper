@@ -2,10 +2,14 @@
 #include<stdbool.h>
 #include<stdlib.h>
 
+/* matrix can be resize, standard is 10x10
+   number of bombs can be change, here is 15
+*/
+
 FILE* fout;
 
 int mat[11][11];
-int bomb = 0;
+int bomb = 0; 
 
 void makeBomb() {
     
